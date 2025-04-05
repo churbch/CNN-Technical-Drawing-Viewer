@@ -3,7 +3,7 @@
  A CNN architechture for identifying parts in a technical drawing.
 
 ## Project Structure
-
+```text
  Project Root/
 ├── model.py
 ├── mapping.json
@@ -17,6 +17,8 @@
     └── test/
         ├── labels
         └── data
+```
+
 ## To Do
 
 * Data prep for training and test
